@@ -10,6 +10,7 @@ This repository contains reproducible pipeline scripts used to build panels, run
 
 Included:
 - Pipeline and analysis scripts (`scripts/*.py`)
+- Research memo report (`reports/extension_research_memo.md`)
 - Dependency list (`requirements.txt`)
 
 Not included:
