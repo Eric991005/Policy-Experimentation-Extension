@@ -1,0 +1,9 @@
+numpy
+pandas
+requests
+beautifulsoup4
+pyarrow
+linearmodels
+matplotlib
+seaborn
+folium

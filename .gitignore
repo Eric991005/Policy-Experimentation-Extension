@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.venv/
+venv/
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
+
+# Data and outputs (code-only repo)
+data_raw_links/
+data_intermediate/
+data_final/
+outputs/
+logs/
+manifests/
+
+# Environment / secrets
+.env
+*.key
+*.pem
+*.p12
+*.crt
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
